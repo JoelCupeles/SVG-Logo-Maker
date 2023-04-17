@@ -9,6 +9,7 @@ A command-line application that generates a logo as an SVG file based on user in
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Demo Link](#demo)
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
