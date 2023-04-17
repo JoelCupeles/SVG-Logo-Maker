@@ -26,7 +26,7 @@ A command-line application that generates a logo as an SVG file based on user in
 To use this application, run 'node index.js' in your terminal, and answer the prompts. An SVG file named logo.svg will be generated in the current directory based on your input.
 
 ## Demo link
-![](https://github.com/JoelCupeles/SVG-Logo-Maker/blob/f7bc137a283d141997285b0db802b65765b1bd0f/examples/DEMO-Logo-Maker.mp4)
+https://clipchamp.com/watch/rTg4o1pj5mo
 
 ## License
 
